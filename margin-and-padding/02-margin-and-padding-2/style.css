@@ -37,4 +37,5 @@ button {
   display: block;
   margin-inline: auto;
   padding-block: 8px;
+  padding-inline: 16px;
 }

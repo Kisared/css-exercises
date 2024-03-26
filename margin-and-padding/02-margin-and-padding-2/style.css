@@ -22,6 +22,7 @@ body {
   background: #e3f4ff;
   margin-bottom: 8px;
   padding-inline: 8px;
+  padding-block: 16px;
 }
 
 .button-container {

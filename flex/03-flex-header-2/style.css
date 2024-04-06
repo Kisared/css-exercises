@@ -18,7 +18,7 @@ body {
   align-items: center;
 }
 
-.left-elements, right-elements {
+.left-elements, .right-elements {
   display: flex;
   gap: 15px;
   align-items: center;

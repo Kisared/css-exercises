@@ -25,6 +25,10 @@ img {
   gap: 52px;
 }
 
+.plant-item {
+  width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;

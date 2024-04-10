@@ -15,6 +15,7 @@ img {
 
 #plants {
   display: flex;
+  gap: 16px;
 }
 
 /* do not edit this footer */

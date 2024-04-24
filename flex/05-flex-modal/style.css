@@ -72,5 +72,5 @@ button.cancel {
 }
 
 .right-part {
-  display:fl
+  display: flex;
 }

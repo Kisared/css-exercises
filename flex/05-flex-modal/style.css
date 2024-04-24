@@ -75,4 +75,7 @@ button.cancel {
 .right-part {
   display: flex;
   flex-wrap: wrap;
+.header {
+  font-weight: bold;
+  font-size: larger;
 }

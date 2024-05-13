@@ -35,6 +35,10 @@ input {
   padding: 12px;
 }
 
+.left-links, .right-links {
+  display: flex;
+}
+
 ul {
   margin: 0;
   padding: 0;

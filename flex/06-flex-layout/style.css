@@ -21,6 +21,7 @@ button {
   background: #eee;
   padding-inline: 12px;
   padding-block: 8px;
+  font-weight: bold;
 }
 
 input {

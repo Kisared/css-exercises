@@ -31,4 +31,4 @@ input {
 
 .header, .footer {
   display: flex;
-}
+  justify-content: space-between;

@@ -50,3 +50,6 @@ body {
 .right-content {
   padding: 50px;
 }
+.cards {
+  display: flex;
+}
